@@ -54,11 +54,11 @@ https://github.com/stars9408/GW_ProfitCalculator
 
 ## 그룹웨어 메인 사이드바 링크:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c40e3316-002b-4aaa-adb9-b8941f19214a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c40e3316-002b-4aaa-adb9-b8941f19214a/Untitled.png)
+
 
 ## **초안 엑셀 파일 모습:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bf4da0e-3906-42aa-9d2a-82f0380014a3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bf4da0e-3906-42aa-9d2a-82f0380014a3/Untitled.png)
+
 
 - **분기 선택 기능:**
 
@@ -212,33 +212,6 @@ END If
 		</table>
 ```
 
-## 손익계산서 페이지
-
-### 상단 연도/분기 선택 및 엑셀 다운로드 버튼
-
-- 선택된 분기 및 현재 날짜 표시
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10ba3bd8-1eed-4f3f-bb7b-c8fe7e99f494/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10ba3bd8-1eed-4f3f-bb7b-c8fe7e99f494/Untitled.png)
-
-### 테이블 1:
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f3992a4-ab4f-4d11-9c8a-6f9e9a1f2d8e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f3992a4-ab4f-4d11-9c8a-6f9e9a1f2d8e/Untitled.png)
-
-### 테이블 2:
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bbf1ad9-f845-4c96-b247-49aa67c72085/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bbf1ad9-f845-4c96-b247-49aa67c72085/Untitled.png)
-
-### 테이블 3:
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ce0b6e0-7a77-4eaf-9815-ea5ea4b5dbea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ce0b6e0-7a77-4eaf-9815-ea5ea4b5dbea/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3881e525-fb69-44ab-ad9e-69779c262d2f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3881e525-fb69-44ab-ad9e-69779c262d2f/Untitled.png)
-
-### 테이블 4:
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fecff65-2dc4-4ea6-9c06-0690f28c9e17/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fecff65-2dc4-4ea6-9c06-0690f28c9e17/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a94ad78-440e-4d35-a00f-168fc70d6299/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a94ad78-440e-4d35-a00f-168fc70d6299/Untitled.png)
 
 # 또 다른 습득
 
